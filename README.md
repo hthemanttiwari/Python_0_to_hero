@@ -18,3 +18,13 @@ Day 2: Learned about
          (6) roundoff() and format() functions.
          (7) f-String.
          (8) using underscore to denote large integers.
+
+Day 3: Learned about
+         (1) greater than and less than operations.
+         (2) if/else condition, Nested if condition, elif condition, and Multiple if Conditions.
+         (3) modulo [percentage sign (%)] for finding the rmainder.
+         (3) Logical operators - and, or, not operators.
+         (4) count() and lower() functions.
+         (5) Ignoring symbol using \ in a String.
+         (6) Multiline String using 3 single quots ('''  ''')
+         (7) For Fun ASCII Arat please visit "https://ascii.co.uk/art".

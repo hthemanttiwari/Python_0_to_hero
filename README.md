@@ -38,3 +38,7 @@ Day 4: Learned about
     (6) Nested Lists.
     (7) String to list Conversion. 
     (8) Please visit "https://www.askpython.com/python/string/convert-string-to-list-in-python" to know more about String to list Conversion.
+
+Day 5: Learned about
+    (1) For Loop.
+    (2) range() functions.

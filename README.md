@@ -42,3 +42,8 @@ Day 4: Learned about
 Day 5: Learned about
     (1) For Loop.
     (2) range() functions.
+
+Day 6: Learned about
+    (1) Creating your own functions.
+    (2) Built-in functions. Please visit "https://docs.python.org/3/library/functions.html" for more details about built-in functions.
+    (2) Please Mind Indentation in Python. Please visit "https://peps.python.org/pep-0008/" to know more about indentation.

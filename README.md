@@ -46,4 +46,10 @@ Day 5: Learned about
 Day 6: Learned about
     (1) Creating your own functions.
     (2) Built-in functions. Please visit "https://docs.python.org/3/library/functions.html" for more details about built-in functions.
-    (2) Please Mind Indentation in Python. Please visit "https://peps.python.org/pep-0008/" to know more about indentation.
+    (3) Please Mind Indentation in Python. Please visit "https://peps.python.org/pep-0008/" to know more about indentation.
+
+Day 7: Learned about
+    (1) Python For and In. Please visit "https://developers.google.com/edu/python/lists#for-and-in" for more details.
+    (2) Python List. Please visit "https://developers.google.com/edu/python/lists#range" for more details.
+    (3) Import in Python. Please visit "https://www.askpython.com/python/python-import-statement" for more details. 
+    (4) Hangman Project Guessing the word.

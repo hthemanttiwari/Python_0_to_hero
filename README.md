@@ -53,3 +53,10 @@ Day 7: Learned about
     (2) Python List. Please visit "https://developers.google.com/edu/python/lists#range" for more details.
     (3) Import in Python. Please visit "https://www.askpython.com/python/python-import-statement" for more details. 
     (4) Hangman Project Guessing the word.
+
+Day 8: Learned about
+    (1) Function in Depth.
+    (2) Rounding Up a number - math.ceil()
+    (3) Please refer this documentation "https://docs.python.org/3/library/math.html#math.ceil" for more details on math modules.
+    (4) Finding Index of a character in String/list. Please visit "https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-list" for more details.
+    (5) Converting List to string. Please visit "https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string" for more details.

@@ -60,3 +60,13 @@ Day 8: Learned about
     (3) Please refer this documentation "https://docs.python.org/3/library/math.html#math.ceil" for more details on math modules.
     (4) Finding Index of a character in String/list. Please visit "https://stackoverflow.com/questions/176918/finding-the-index-of-an-item-in-a-list" for more details.
     (5) Converting List to string. Please visit "https://stackoverflow.com/questions/5618878/how-to-convert-list-to-string" for more details.
+
+Day 9: Learned about
+    (1) Dictionary.
+    (2) Adding new values and overwriting in dictionary.
+    (3) Creating and wiping dictonary.
+    (4) Looping throught a dictionary.
+    (5) Nesting a List in a Dictionary
+    (6) Nesting Dictionary in a Dictionary.
+    (7) Nesting Dictionaries in Lists.
+    (8) Python Tutor for debugging (https://pythontutor.com/)

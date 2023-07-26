@@ -70,3 +70,9 @@ Day 9: Learned about
     (6) Nesting Dictionary in a Dictionary.
     (7) Nesting Dictionaries in Lists.
     (8) Python Tutor for debugging (https://pythontutor.com/)
+
+Day 10: Learned about
+    (1) Functions with Output.
+    (2) Docstring.
+    (3) Converting String to Title Case in Python. Please refer "https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python" for more details.
+    (4) Nesting function.

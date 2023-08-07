@@ -76,3 +76,8 @@ Day 10: Learned about
     (2) Docstring.
     (3) Converting String to Title Case in Python. Please refer "https://stackoverflow.com/questions/8347048/how-to-convert-string-to-title-case-in-python" for more details.
     (4) Nesting function.
+
+Day 11: Learned about
+    (1) sum() and remove() function. Please refer "https://docs.python.org/3/library/functions.html#sum" for more details on sum() function.
+    (2) Python List Methods. Please refer "https://developers.google.com/edu/python/lists#list-methods" for more details.
+    (3) Blackjact Capstone Project.
